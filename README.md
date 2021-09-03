@@ -1,9 +1,8 @@
 # about-me
-"About Me"
 
-- Teaching JS
+First HW
 
-"For Fun"
-
-- Golf
-
+hobbies
+-basketball(not anymore)
+-golf
+-cod
