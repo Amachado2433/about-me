@@ -4,10 +4,7 @@ First HW
 
 Hobbies
 
-- Golffjadkls;
-  asdf
-- Basketballfdasjkl;
-  dsfdaf
-- Pool
-
-- CODfdas
+- Golfing
+- Basketball
+- 8 Ball Pool
+- Card Games
