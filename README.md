@@ -4,10 +4,7 @@ First HW
 
 Hobbies
 
-- Golf
-
+- Golfing
 - Basketball
-
-- Pool
-
-- COD
+- 8 Ball Pool
+- Card Games
